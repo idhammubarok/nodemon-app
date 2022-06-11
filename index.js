@@ -9,7 +9,7 @@ app.get("/", (req, res) => {
 
 app.get("/name", (req, res) => {
 
-    res.send("My name is Idham Mubarok");
+    res.send("My name is Jhon Doe");
 });
 
 app.listen(PORT, () => {
